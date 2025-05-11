@@ -18,9 +18,9 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/Mvrco",
+    "homepage": "https://github.com/Adrianmaze/Linda",
     "author": {
-        "name": "Mvrco"
+        "name": "Linda"
     },
     "collaborators": {
         "col1": "@KILLBOT",
@@ -28,10 +28,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/Mvrco.git"
+        "url": "git+https://github.com/Adrianmaze/Linda.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/Mvrco/issues"
+        "url": "https://github.com/Adrianmaze/Linda/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
